@@ -1,0 +1,5 @@
+def add(param1, param2):
+    soma = param1 + param2
+    return soma
+    
+    #the beginning of everything
